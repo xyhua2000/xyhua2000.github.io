@@ -5,7 +5,7 @@ date: 2025-10-27
 tags: [AI, catalogue]
 toc: false
 comments: false
-author: Pianfan
+author: xyhua
 ---
 
 使用iseq下载数据<!-- more -->
