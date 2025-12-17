@@ -34,10 +34,10 @@ paginate_path: /page:num/
 
 # Gitalk
 gitalk:
-  clientID: cba98a0db83eb062c0f8
-  clientSecret: 46400b2614fb5c4189f6c5f662baee088712b316
-  repo: pianfan.github.io
-  owner: pianfan
+  clientID: Ov23liQPo4OlSnotbhVG
+  clientSecret: c49b344b217a5601113fad297f74338de41059b3
+  repo: xyhua2000.github.io
+  owner: xyhua2000
 
 # The release of Jekyll Now
 version: v1.2.0
