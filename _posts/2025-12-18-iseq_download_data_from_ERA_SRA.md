@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "从ENA、SRA下载数据"
-date: 2025-12-18
+date: 2025-12-17
 tags: [iseq, ENA, SRA]
 toc: false
 comments: true
