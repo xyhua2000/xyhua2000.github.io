@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "xyhua's blog"
+description: "记录博客"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: xyhua2000@gmail.com
   facebook:
-  github: pianfan
+  github: xyhua2000
   rss: welcome!
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024-2025 Pianfan
 
-url: https://pianfan.github.io
+url: https://xyhua2000.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
