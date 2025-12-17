@@ -32,6 +32,9 @@ url: https://xyhua2000.github.io
 permalink: /:title/
 paginate_path: /page:num/
 
+
+future: true
+
 # Gitalk
 gitalk:
   clientID: Ov23liQPo4OlSnotbhVG
