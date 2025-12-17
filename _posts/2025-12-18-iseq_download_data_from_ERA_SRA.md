@@ -12,6 +12,7 @@ author: xyhua
 
 ## 创建并激活环境
 mamba create -n iseq iseq
+
 mamba activate iseq
 
 
