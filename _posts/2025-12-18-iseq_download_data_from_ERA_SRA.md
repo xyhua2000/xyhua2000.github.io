@@ -4,7 +4,7 @@ title: "从ENA、SRA下载数据"
 date: 2025-12-18
 tags: [iseq, ENA, SRA]
 toc: false
-comments: false
+comments: true
 author: xyhua
 ---
 
