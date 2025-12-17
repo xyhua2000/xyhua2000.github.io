@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "关于《动手学深度学习（第二版）》学习笔记系列的目录"
-date: 2025-10-27
-tags: [AI, catalogue]
+title: "从ENA、SRA下载数据"
+date: 2025-12-18
+tags: [iseq, ENA, SRA]
 toc: false
 comments: false
 author: xyhua
