@@ -5,7 +5,7 @@ date: 2025-12-18
 tags: [iseq, ENA, SRA]
 toc: false
 comments: true
-author: xyhua
+author: xyhua2000
 ---
 
 使用iseq下载数据<!-- more -->
