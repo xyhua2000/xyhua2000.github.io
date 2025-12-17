@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "从ENA、SRA下载数据"
-date: 2025-12-17
+title: "从ENA, SRA下载数据"
+date: 2025-12-18
 tags: [iseq, ENA, SRA]
 toc: false
 comments: true
@@ -16,7 +16,7 @@ mamba create -n iseq iseq
 mamba activate iseq
 ```
 
-## 下载文件
+## 下载
 ```bash
 iseq -i acc_ids.txt -g -a -t 18 -p 10 -d ena -o data
 ```
